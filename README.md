@@ -1,3 +1,4 @@
 # Travel Destinations
 
-A simple app to keep track of destinations I'd like to visit.
+Nothing to see here...
+Just a sample to help me get used to using GitHub
